@@ -11,8 +11,7 @@ def second_challenge(hash)
       :matriarch => {},
       :heroine => {},
       :heroine_friends => []
-      }
-    }
+      } }
 
 
 end

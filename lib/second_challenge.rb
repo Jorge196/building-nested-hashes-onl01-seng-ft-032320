@@ -1,4 +1,4 @@
-def second_challenge
+def second_challenge(hash)
   epic_tragedy = {
     :montague => {
       :patriarch => {},
